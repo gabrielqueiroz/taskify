@@ -1,24 +1,12 @@
-# README
+# Taskify
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple Ruby on Rails app TODO app to manage tasks.
 
-Things you may want to cover:
+Followed along with the [Building to-do list using Hotwire and Stimulus](https://www.writesoftwarewell.com/building-to-do-list-using-hotwire-and-stimulus/) tutorial.
 
-* Ruby version
+## Features
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Rails 7
+- Hotwire
+- Stimulus
+- TailwindCSS
